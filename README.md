@@ -1,12 +1,14 @@
 # Regex
 Regular Expression in Five Languages 
 #----------------------------------------------------------------------
+
 Purpose:
 
   * Demonstrate (elementary) understanding of Regular Expressions
     and how to use them in various useful languages.
 
 #----------------------------------------------------------------------
+
 Background:
 
   * The input file will have multiple proposed tokens on each
@@ -32,6 +34,7 @@ Background:
     uppercase or lowercase.  (That is, r through w are allowed.)
 
 #----------------------------------------------------------------------
+
 Examples:
 
   000)(000  is a legal FP.
